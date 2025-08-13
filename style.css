@@ -1,0 +1,24 @@
+ body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      color: #333;
+      
+    }
+    h1 {
+      color: teal;
+    }
+   
+    .container{
+        padding-left: 630px;
+    }
+    .img{
+         padding-left: 530px;
+    }
+    
+    
+    .header{
+padding-left: 600px;
+    }
+    .footer{
+        padding-left: 680px;
+    }
